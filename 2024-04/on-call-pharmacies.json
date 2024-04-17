@@ -4,362 +4,362 @@
         "year": 2024,
         "days": [
             {
-                "date": "2024-04-01",
+                "day": "2024-04-01",
                 "pharmacies": [
                     {
-                        "fantasy": "FARMACIA MONTE CASTELO",
-                        "address": "RUA MONTECASTELO, 314",
-                        "neighborhood": "JD DOS MIGRANTES",
-                        "phone": "34169801",
-                        "cnpj": "34.756.304/0001-03"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-02",
-                "pharmacies": [
-                    {
-                        "fantasy": "FARMACIA REAL",
-                        "address": "RUA DOS MINEIROS, 298 - PRÓXIMO À RODOVIÁRIA",
+                        "fantasy": "DROGARIA JI MED",
+                        "address": "RUA DOS MINEIROS, 260 - EM FRENTE ÀRODOVIÁRIA",
                         "neighborhood": "CENTRO",
-                        "phone": "34211497",
-                        "cnpj": "21.213.489/0001-50"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-03",
-                "pharmacies": [
-                    {
-                        "fantasy": "CLINFARMA",
-                        "address": "RUA DOM BOSCO, 1219",
-                        "neighborhood": "CASA PRETA",
-                        "phone": "34243225",
-                        "cnpj": "22.624.166/0001-11"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-04",
-                "pharmacies": [
-                    {
-                        "fantasy": "DROGARIA GOIAS",
-                        "address": "AV. MARECHAL RONDON, 2230",
-                        "neighborhood": "2 DE ABRIL",
-                        "phone": "34213949",
-                        "cnpj": "38.177.030/0001-40"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-05",
-                "pharmacies": [
-                    {
-                        "fantasy": "FARMÁCIA PAGUE MENOS",
-                        "address": "AV. MARECHAL RONDON, 2142",
-                        "neighborhood": "2 DE ABRIL",
-                        "phone": "984055775",
-                        "cnpj": "06.626.253/0521-19"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-06",
-                "pharmacies": [
-                    {
-                        "fantasy": "MEGAFARMA* (ULTRAPOPULAR)",
-                        "address": "AV. MARECHAL RONDON, 2177",
-                        "neighborhood": "2 DE ABRIL",
-                        "phone": "9849164822",
-                        "cnpj": "20.739.844/0031-81"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-07",
-                "pharmacies": [
-                    {
-                        "fantasy": "FARMA POPULAR",
-                        "address": "RUA MONTE CASTELO, 394",
-                        "neighborhood": "JD DOS MIGRANTES",
-                        "phone": "999691768",
-                        "cnpj": "37.076.173/0001-01"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-08",
-                "pharmacies": [
-                    {
-                        "fantasy": "FARMÁCIA PRESIDENCIAL",
-                        "address": "RUA 31 DE MARÇO, 1624",
-                        "neighborhood": "JD PRESIDENCIAL",
-                        "phone": "34238098",
-                        "cnpj": "28.822.517/0001-85"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-09",
-                "pharmacies": [
-                    {
-                        "fantasy": "FARMÁCIA ULTRA POPULAR",
-                        "address": "AV. MARECHAL RONDON, 2050",
-                        "neighborhood": "2 DE ABRIL",
-                        "phone": "34230248",
-                        "cnpj": "20.739.844/0004-09"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-10",
-                "pharmacies": [
-                    {
-                        "fantasy": "FARMÁCIA SUPER POPULAR",
-                        "address": "AV. CASTELO BRANCO, 1330",
-                        "neighborhood": "JD PRESIDENCIAL",
-                        "phone": "993119617",
-                        "cnpj": "30.294.660/0001-93"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-11",
-                "pharmacies": [
-                    {
-                        "fantasy": "FARMÁCIA PREÇO JUSTO",
-                        "address": "RUA JASMIM, 2500",
-                        "neighborhood": "SANTIAGO",
-                        "phone": "93162698",
-                        "cnpj": "34.047.603/0001-60"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-12",
-                "pharmacies": [
-                    {
-                        "fantasy": "FARMÁCIA DUTRAFARMA",
-                        "address": "RUA DOS MINEIROS, 198 - PRÓXIMO À RODOVIÁRIA",
-                        "neighborhood": "CENTRO",
-                        "phone": "34169895",
-                        "cnpj": "05.941.885/0001-47"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-13",
-                "pharmacies": [
-                    {
-                        "fantasy": "RD FARMA",
-                        "address": "AV. MARECHAL RONDON, 1783",
-                        "neighborhood": "CENTRO",
-                        "phone": "33167406",
-                        "cnpj": "84.583.129/0006-74"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-14",
-                "pharmacies": [
-                    {
-                        "fantasy": "DROGASIL",
-                        "address": "AV. MARECHAL RONDON, 1912",
-                        "neighborhood": "2 DE ABRIL",
-                        "phone": "999722459",
-                        "cnpj": "61.585.865/2849-15"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-15",
-                "pharmacies": [
-                    {
-                        "fantasy": "DROGASIL JI MED",
-                        "address": "RUA DOS MINEIROS, 260 - EM FRENTE À RODOVIÁRIA",
-                        "neighborhood": "CENTRO",
-                        "phone": "34214681",
+                        "phone": "6934214681",
                         "cnpj": "07.922.969/0001-69"
                     }
                 ]
             },
             {
-                "date": "2024-04-16",
+                "day": "2024-04-02",
                 "pharmacies": [
                     {
                         "fantasy": "BIO FARMA",
                         "address": "RUA MATO GROSSO, 2815",
                         "neighborhood": "DOM BOSCO",
-                        "phone": "992131711",
+                        "phone": "69992131711",
                         "cnpj": "32.638.183/0001-61"
                     }
                 ]
             },
             {
-                "date": "2024-04-17",
+                "day": "2024-04-03",
                 "pharmacies": [
                     {
                         "fantasy": "FARMACIA MONTE CASTELO",
                         "address": "RUA MONTECASTELO, 314",
                         "neighborhood": "JD DOS MIGRANTES",
-                        "phone": "34169801",
+                        "phone": "6934169801",
                         "cnpj": "34.756.304/0001-03"
                     }
                 ]
             },
             {
-                "date": "2024-04-18",
+                "day": "2024-04-04",
                 "pharmacies": [
                     {
                         "fantasy": "FARMACIA REAL",
-                        "address": "RUA DOS MINEIROS, 298 - PRÓXIMO À RODOVIÁRIA",
+                        "address": "RUA DOS MINEIROS, 298 - PRÓXMO À RODOVIÁRIA",
                         "neighborhood": "CENTRO",
-                        "phone": "34211497",
+                        "phone": "6934211497",
                         "cnpj": "21.213.489/0001-50"
                     }
                 ]
             },
             {
-                "date": "2024-04-19",
+                "day": "2024-04-05",
                 "pharmacies": [
                     {
-                        "fantasy": "CLINFARMA",
+                        "fantasy": "FARMA MAIS",
                         "address": "RUA DOM BOSCO, 1219",
                         "neighborhood": "CASA PRETA",
-                        "phone": "34243225",
-                        "cnpj": "22.624.166/0001-11"
+                        "phone": "69992058004",
+                        "cnpj": "41.981.751/0001-13"
                     }
                 ]
             },
             {
-                "date": "2024-04-20",
+                "day": "2024-04-06",
                 "pharmacies": [
                     {
                         "fantasy": "DROGARIA GOIAS",
                         "address": "AV. MARECHAL RONDON, 2230",
                         "neighborhood": "2 DE ABRIL",
-                        "phone": "34213949",
+                        "phone": "6934213949",
                         "cnpj": "38.177.030/0001-40"
                     }
                 ]
             },
             {
-                "date": "2024-04-21",
-                "pharmacies": [
-                    {
-                        "fantasy": "FARMÁCIA PAGUE MENOS",
-                        "address": "AV. MARECHAL RONDON, 2142",
-                        "neighborhood": "2 DE ABRIL",
-                        "phone": "984055775",
-                        "cnpj": "06.626.253/0521-19"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-22",
-                "pharmacies": [
-                    {
-                        "fantasy": "MEGAFARMA* (ULTRAPOPULAR)",
-                        "address": "AV. MARECHAL RONDON, 2177",
-                        "neighborhood": "2 DE ABRIL",
-                        "phone": "9849164822",
-                        "cnpj": "20.739.844/0031-81"
-                    }
-                ]
-            },
-            {
-                "date": "2024-04-23",
+                "day": "2024-04-07",
                 "pharmacies": [
                     {
                         "fantasy": "FARMA POPULAR",
                         "address": "RUA MONTE CASTELO, 394",
                         "neighborhood": "JD DOS MIGRANTES",
-                        "phone": "999691768",
+                        "phone": "69999691768",
                         "cnpj": "37.076.173/0001-01"
                     }
                 ]
             },
             {
-                "date": "2024-04-24",
+                "day": "2024-04-08",
+                "pharmacies": [
+                    {
+                        "fantasy": "ULTRAPOPULAR",
+                        "address": "AV. MARECHAL RONDON, 2177",
+                        "neighborhood": "2 DE ABRIL",
+                        "phone": "69984916482",
+                        "cnpj": "20.739.844/0031-81"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-09",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMÁCIA PAGUE MENOS",
+                        "address": "AV. MARECHALRONDON, 2142",
+                        "neighborhood": "2 DE ABRIL",
+                        "phone": "69984055775",
+                        "cnpj": "06.626.253/0521-19"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-10",
                 "pharmacies": [
                     {
                         "fantasy": "FARMÁCIA PRESIDENCIAL",
                         "address": "RUA 31 DE MARÇO, 1624",
                         "neighborhood": "JD PRESIDENCIAL",
-                        "phone": "34238098",
+                        "phone": "6934238098",
                         "cnpj": "28.822.517/0001-85"
                     }
                 ]
             },
             {
-                "date": "2024-04-25",
+                "day": "2024-04-11",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMÁCIA PREÇO ULTRA BAIXO",
+                        "address": "RUA 31 DE MARÇO, 927",
+                        "neighborhood": "JD DOS MIGRANTES",
+                        "phone": "69992773248",
+                        "cnpj": "48.106.816/0001-20"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-12",
                 "pharmacies": [
                     {
                         "fantasy": "FARMÁCIA ULTRA POPULAR",
                         "address": "AV. MARECHAL RONDON, 2050",
                         "neighborhood": "2 DE ABRIL",
-                        "phone": "34230248",
+                        "phone": "6934230248",
                         "cnpj": "20.739.844/0004-09"
                     }
                 ]
             },
             {
-                "date": "2024-04-26",
+                "day": "2024-04-13",
                 "pharmacies": [
                     {
                         "fantasy": "FARMÁCIA SUPER POPULAR",
                         "address": "AV. CASTELO BRANCO, 1330",
                         "neighborhood": "JD PRESIDENCIAL",
-                        "phone": "993119617",
+                        "phone": "69993119617",
                         "cnpj": "30.294.660/0001-93"
                     }
                 ]
             },
             {
-                "date": "2024-04-27",
+                "day": "2024-04-14",
                 "pharmacies": [
                     {
                         "fantasy": "FARMÁCIA PREÇO JUSTO",
                         "address": "RUA JASMIM, 2500",
                         "neighborhood": "SANTIAGO",
-                        "phone": "93162698",
+                        "phone": "69992348688",
                         "cnpj": "34.047.603/0001-60"
                     }
                 ]
             },
             {
-                "date": "2024-04-28",
+                "day": "2024-04-15",
                 "pharmacies": [
                     {
                         "fantasy": "FARMÁCIA DUTRAFARMA",
                         "address": "RUA DOS MINEIROS, 198 - PRÓXIMO À RODOVIÁRIA",
                         "neighborhood": "CENTRO",
-                        "phone": "34169895",
+                        "phone": "6934169895",
                         "cnpj": "05.941.885/0001-47"
                     }
                 ]
             },
             {
-                "date": "2024-04-29",
+                "day": "2024-04-16",
                 "pharmacies": [
                     {
                         "fantasy": "RD FARMA",
                         "address": "AV. MARECHAL RONDON, 1783",
                         "neighborhood": "CENTRO",
-                        "phone": "33167406",
+                        "phone": "6933167406",
                         "cnpj": "84.583.129/0006-74"
                     }
                 ]
             },
             {
-                "date": "2024-04-30",
+                "day": "2024-04-17",
                 "pharmacies": [
                     {
                         "fantasy": "DROGASIL",
                         "address": "AV. MARECHAL RONDON, 1912",
                         "neighborhood": "2 DE ABRIL",
-                        "phone": "999722459",
+                        "phone": "69999722459",
                         "cnpj": "61.585.865/2849-15"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-18",
+                "pharmacies": [
+                    {
+                        "fantasy": "DROGARIA JI MED",
+                        "address": "RUA DOS MINEIROS, 260 - EM FRENTE ÀRODOVIÁRIA",
+                        "neighborhood": "CENTRO",
+                        "phone": "6934214681",
+                        "cnpj": "07.922.969/0001-69"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-19",
+                "pharmacies": [
+                    {
+                        "fantasy": "BIO FARMA",
+                        "address": "RUA MATO GROSSO, 2815",
+                        "neighborhood": "DOM BOSCO",
+                        "phone": "69992131711",
+                        "cnpj": "32.638.183/0001-61"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-20",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMACIA MONTE CASTELO",
+                        "address": "RUA MONTECASTELO, 314",
+                        "neighborhood": "JD DOS MIGRANTES",
+                        "phone": "6934169801",
+                        "cnpj": "34.756.304/0001-03"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-21",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMACIA REAL",
+                        "address": "RUA DOS MINEIROS, 298 - PRÓXMO À RODOVIÁRIA",
+                        "neighborhood": "CENTRO",
+                        "phone": "6934211497",
+                        "cnpj": "21.213.489/0001-50"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-22",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMA MAIS",
+                        "address": "RUA DOM BOSCO, 1219",
+                        "neighborhood": "CASA PRETA",
+                        "phone": "69992058004",
+                        "cnpj": "41.981.751/0001-13"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-23",
+                "pharmacies": [
+                    {
+                        "fantasy": "DROGARIA GOIAS",
+                        "address": "AV. MARECHAL RONDON, 2230",
+                        "neighborhood": "2 DE ABRIL",
+                        "phone": "6934213949",
+                        "cnpj": "38.177.030/0001-40"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-24",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMA POPULAR",
+                        "address": "RUA MONTE CASTELO, 394",
+                        "neighborhood": "JD DOS MIGRANTES",
+                        "phone": "69999691768",
+                        "cnpj": "37.076.173/0001-01"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-25",
+                "pharmacies": [
+                    {
+                        "fantasy": "ULTRAPOPULAR",
+                        "address": "AV. MARECHAL RONDON, 2177",
+                        "neighborhood": "2 DE ABRIL",
+                        "phone": "69984916482",
+                        "cnpj": "20.739.844/0031-81"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-26",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMÁCIA PAGUE MENOS",
+                        "address": "AV. MARECHALRONDON, 2142",
+                        "neighborhood": "2 DE ABRIL",
+                        "phone": "69984055775",
+                        "cnpj": "06.626.253/0521-19"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-27",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMÁCIA PRESIDENCIAL",
+                        "address": "RUA 31 DE MARÇO, 1624",
+                        "neighborhood": "JD PRESIDENCIAL",
+                        "phone": "6934238098",
+                        "cnpj": "28.822.517/0001-85"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-28",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMÁCIA PREÇO ULTRA BAIXO",
+                        "address": "RUA 31 DE MARÇO, 927",
+                        "neighborhood": "JD DOS MIGRANTES",
+                        "phone": "69992773248",
+                        "cnpj": "48.106.816/0001-20"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-29",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMÁCIA ULTRA POPULAR",
+                        "address": "AV. MARECHAL RONDON, 2050",
+                        "neighborhood": "2 DE ABRIL",
+                        "phone": "6934230248",
+                        "cnpj": "20.739.844/0004-09"
+                    }
+                ]
+            },
+            {
+                "day": "2024-04-30",
+                "pharmacies": [
+                    {
+                        "fantasy": "FARMÁCIA SUPER POPULAR",
+                        "address": "AV. CASTELO BRANCO, 1330",
+                        "neighborhood": "JD PRESIDENCIAL",
+                        "phone": "69993119617",
+                        "cnpj": "30.294.660/0001-93"
                     }
                 ]
             }
