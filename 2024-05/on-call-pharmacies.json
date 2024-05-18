@@ -1,0 +1,534 @@
+{
+    "id": 1,
+    "month": "May",
+    "year": 2024,
+    "days": [
+        {
+            "date": "2024-05-01",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Ultra Popular",
+                    "address": "Rua Amazonas, 229, Vila Jotão, 2º Distrito",
+                    "neighborhood": "Vila Jotão",
+                    "phone": "3422-9959"
+                },
+                {
+                    "fantasy": "Farmácia Real",
+                    "address": "Rua dos Mineiros, 298, Centro, 1º Distrito",
+                    "neighborhood": "Centro",
+                    "phone": "3421-1497"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-02",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Mega Popular",
+                    "address": "Av. das Seringueiras, 580, Cafezinho, 2º Distrito",
+                    "neighborhood": "Cafezinho",
+                    "phone": "9.9359-4537"
+                },
+                {
+                    "fantasy": "Farma Mais",
+                    "address": "Rua Dom Bosco, 1219, Casa Preta, 1º Distrito",
+                    "neighborhood": "Casa Preta",
+                    "phone": "9.9205-8004"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-03",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Bem Popular",
+                    "address": "Av. das Seringueiras, 100-T14, Cafezinho, 2º Distrito",
+                    "neighborhood": "Cafezinho",
+                    "phone": "9.9208-2829"
+                },
+                {
+                    "fantasy": "Drogaria Goiás",
+                    "address": "Av. Marechal Rondon, 2230, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "3421-3949"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-04",
+            "pharmacies": [
+                {
+                    "fantasy": "Drogasil",
+                    "address": "Rua Luiz Muzambinho, 1745-T06, N. Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "9.9996-7127"
+                },
+                {
+                    "fantasy": "Farma Popular",
+                    "address": "Rua Monte Castelo, 394, Jd dos Migrantes, 1º Distrito",
+                    "neighborhood": "Jd dos Migrantes",
+                    "phone": "9.9969-1768"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-05",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Preço Baixo",
+                    "address": "Rua Martins Costa, 299, Vila Jotão, 2º Distrito",
+                    "neighborhood": "Vila Jotão",
+                    "phone": "3423-0276"
+                },
+                {
+                    "fantasy": "Ultrapopular",
+                    "address": "Av. Marechal Rondon, 2177, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "9.8491-6482"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-06",
+            "pharmacies": [
+                {
+                    "fantasy": "Farma Você",
+                    "address": "Av. Gov. Jorge Teixeira, 2588-T23, N. Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "9.9949-1722"
+                },
+                {
+                    "fantasy": "Farmácia Pague Menos",
+                    "address": "Av. Marechal Rondon, 2142, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "9.8405-5775"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-07",
+            "pharmacies": [
+                {
+                    "fantasy": "Drogaria Hiper Popular",
+                    "address": "Rua Cedro, 3321-T23, JK, 2º Distrito",
+                    "neighborhood": "JK",
+                    "phone": "9.9320-3458"
+                },
+                {
+                    "fantasy": "Farmácia Presidencial",
+                    "address": "Rua 31 de Março, 1624, Jd Presidencial, 1º Distrito",
+                    "neighborhood": "Jd Presidencial",
+                    "phone": "3423-8098"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-08",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Ecofarma",
+                    "address": "Rua Cedro, 3340-T23, JK, 2º Distrito",
+                    "neighborhood": "JK",
+                    "phone": "9.8454-1790"
+                },
+                {
+                    "fantasy": "Farmácia Preço Ultra Baixo",
+                    "address": "Rua 31 de Março, 927, Jd dos Migrantes, 1º Distrito",
+                    "neighborhood": "Jd dos Migrantes",
+                    "phone": "9.9277-3248"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-09",
+            "pharmacies": [
+                {
+                    "fantasy": "Drogaria Preço Popular",
+                    "address": "Av. das Seringueiras, 97-T14, Cafezinho, 2º Distrito",
+                    "neighborhood": "Cafezinho",
+                    "phone": "9.8494-0385"
+                },
+                {
+                    "fantasy": "Farmácia Ultra Popular",
+                    "address": "Av. Marechal Rondon, 2050, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "3423-0248"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-10",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Preço Baixo",
+                    "address": "Av. Brasil, 1833-T15, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "3421-1792"
+                },
+                {
+                    "fantasy": "Farmácia Super Popular",
+                    "address": "Av. Castelo Branco, 1330, Jd Presidencial, 1º Distrito",
+                    "neighborhood": "Jd Presidencial",
+                    "phone": "9.9311-9617"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-11",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Jifarma",
+                    "address": "Av. Brasil, 722, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "9.9327-0359"
+                },
+                {
+                    "fantasy": "Farmácia Preço Justo",
+                    "address": "Rua Jasmim, 2500, Santiago, 1º Distrito",
+                    "neighborhood": "Santiago",
+                    "phone": "9.9234-8688"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-12",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Preço Baixo",
+                    "address": "Av. Brasil, 753-T6, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "3422-6606"
+                },
+                {
+                    "fantasy": "Farmácia Dutrafarma",
+                    "address": "Rua dos Mineiros, 198, Centro, 1º Distrito",
+                    "neighborhood": "Centro",
+                    "phone": "3416-9895"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-13",
+            "pharmacies": [
+                {
+                    "fantasy": "Farma Popular",
+                    "address": "Av. Brasil, 1593-T13, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "9.9380-3676"
+                },
+                {
+                    "fantasy": "RD Farma",
+                    "address": "Av. Marechal Rondon, 1783, Centro, 1º Distrito",
+                    "neighborhood": "Centro",
+                    "phone": "3316-7406"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-14",
+            "pharmacies": [
+                {
+                    "fantasy": "Rondomil",
+                    "address": "Av. Brasil, 661, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "9.9215-7838"
+                },
+                {
+                    "fantasy": "Drogasil",
+                    "address": "Av. Marechal Rondon, 1912, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "9.9972-2459"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-15",
+            "pharmacies": [
+                {
+                    "fantasy": "Drogarias Teixeira",
+                    "address": "Rua Cedro, 2980-T23, JK, 2º Distrito",
+                    "neighborhood": "JK",
+                    "phone": "9.8442-5844"
+                },
+                {
+                    "fantasy": "Drogaria Ji Med",
+                    "address": "Rua dos Mineiros, 260, Centro, 1º Distrito",
+                    "neighborhood": "Centro",
+                    "phone": "3421-4681"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-16",
+            "pharmacies": [
+                {
+                    "fantasy": "Trip Farma Popular",
+                    "address": "Av. Brasil, 162, N. Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "3201-0607"
+                },
+                {
+                    "fantasy": "Bio Farma",
+                    "address": "Rua Mato Grosso, 2815, Dom Bosco, 1º Distrito",
+                    "neighborhood": "Dom Bosco",
+                    "phone": "9.9213-1711"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-17",
+            "pharmacies": [
+                {
+                    "fantasy": "Megafarma (Ultra Popular)",
+                    "address": "Av. Brasil, 453, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "9.9225-9535"
+                },
+                {
+                    "fantasy": "Farmácia Monte Castelo",
+                    "address": "Rua Monte Castelo, 314, Jd dos Migrantes, 1º Distrito",
+                    "neighborhood": "Jd dos Migrantes",
+                    "phone": "3416-9801"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-18",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Pague Menos",
+                    "address": "Rua Amazonas, 219, Vila Jotão, 2º Distrito",
+                    "neighborhood": "Vila Jotão",
+                    "phone": "3423-3240"
+                },
+                {
+                    "fantasy": "Farmácia Real",
+                    "address": "Rua dos Mineiros, 298, Centro, 1º Distrito",
+                    "neighborhood": "Centro",
+                    "phone": "3421-1497"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-19",
+            "pharmacies": [
+                {
+                    "fantasy": "Bemol Farma",
+                    "address": "Av. Brasil, 520, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "3224-2975"
+                },
+                {
+                    "fantasy": "Farma Mais",
+                    "address": "Rua Dom Bosco, 1219, Casa Preta, 1º Distrito",
+                    "neighborhood": "Casa Preta",
+                    "phone": "9.9205-8004"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-20",
+            "pharmacies": [
+                {
+                    "fantasy": "Drogaria Hiper Popular",
+                    "address": "Rua Ipê, 2435-T17, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "9.9320-3458"
+                },
+                {
+                    "fantasy": "Drogaria Goiás",
+                    "address": "Av. Marechal Rondon, 2230, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "3421-3949"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-21",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Rondominas",
+                    "address": "Av. Brasil, 1659, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "9.9214-4050"
+                },
+                {
+                    "fantasy": "Farma Popular",
+                    "address": "Rua Monte Castelo, 394, Jd dos Migrantes, 1º Distrito",
+                    "neighborhood": "Jd dos Migrantes",
+                    "phone": "9.9969-1768"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-22",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Renascer",
+                    "address": "Av. Édson Lima do Nascimento, 3038, Parque dos Pioneiros, 2º Distrito",
+                    "neighborhood": "Parque dos Pioneiros",
+                    "phone": "9.9225-6633"
+                },
+                {
+                    "fantasy": "Ultrapopular",
+                    "address": "Av. Marechal Rondon, 2177, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "9.8491-6482"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-23",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Passarela",
+                    "address": "Av. Brasil, 2093, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "3424-3815"
+                },
+                {
+                    "fantasy": "Farmácia Pague Menos",
+                    "address": "Av. Marechal Rondon, 2142, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "9.8405-5775"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-24",
+            "pharmacies": [
+                {
+                    "fantasy": "RD Farma",
+                    "address": "Av. Brasil, 1838, Nova Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "3316-7417"
+                },
+                {
+                    "fantasy": "Farmácia Presidencial",
+                    "address": "Rua 31 de Março, 1624, Jd Presidencial, 1º Distrito",
+                    "neighborhood": "Jd Presidencial",
+                    "phone": "3423-8098"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-25",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Ultra Popular",
+                    "address": "Rua Amazonas, 229, Vila Jotão, 2º Distrito",
+                    "neighborhood": "Vila Jotão",
+                    "phone": "3422-9959"
+                },
+                {
+                    "fantasy": "Farmácia Preço Ultra Baixo",
+                    "address": "Rua 31 de Março, 927, Jd dos Migrantes, 1º Distrito",
+                    "neighborhood": "Jd dos Migrantes",
+                    "phone": "9.9277-3248"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-26",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Mega Popular",
+                    "address": "Av. das Seringueiras, 580, Cafezinho, 2º Distrito",
+                    "neighborhood": "Cafezinho",
+                    "phone": "9.9359-4537"
+                },
+                {
+                    "fantasy": "Farma Mais",
+                    "address": "Rua Dom Bosco, 1219, Casa Preta, 1º Distrito",
+                    "neighborhood": "Casa Preta",
+                    "phone": "9.9205-8004"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-27",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Bem Popular",
+                    "address": "Av. das Seringueiras, 100-T14, Cafezinho, 2º Distrito",
+                    "neighborhood": "Cafezinho",
+                    "phone": "9.9208-2829"
+                },
+                {
+                    "fantasy": "Drogaria Goiás",
+                    "address": "Av. Marechal Rondon, 2230, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "3421-3949"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-28",
+            "pharmacies": [
+                {
+                    "fantasy": "Drogasil",
+                    "address": "Rua Luiz Muzambinho, 1745-T06, N. Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "9.9996-7127"
+                },
+                {
+                    "fantasy": "Farma Popular",
+                    "address": "Rua Monte Castelo, 394, Jd dos Migrantes, 1º Distrito",
+                    "neighborhood": "Jd dos Migrantes",
+                    "phone": "9.9969-1768"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-29",
+            "pharmacies": [
+                {
+                    "fantasy": "Farmácia Preço Baixo",
+                    "address": "Rua Martins Costa, 299, Vila Jotão, 2º Distrito",
+                    "neighborhood": "Vila Jotão",
+                    "phone": "3423-0276"
+                },
+                {
+                    "fantasy": "Ultrapopular",
+                    "address": "Av. Marechal Rondon, 2177, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "9.8491-6482"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-30",
+            "pharmacies": [
+                {
+                    "fantasy": "Farma Você",
+                    "address": "Av. Gov. Jorge Teixeira, 2588-T23, N. Brasília, 2º Distrito",
+                    "neighborhood": "N. Brasília",
+                    "phone": "9.9949-1722"
+                },
+                {
+                    "fantasy": "Farmácia Pague Menos",
+                    "address": "Av. Marechal Rondon, 2142, 2 de Abril, 1º Distrito",
+                    "neighborhood": "2 de Abril",
+                    "phone": "9.8405-5775"
+                }
+            ]
+        },
+        {
+            "date": "2024-05-31",
+            "pharmacies": [
+                {
+                    "fantasy": "Drogaria Hiper Popular",
+                    "address": "Rua Cedro, 3321-T23, JK, 2º Distrito",
+                    "neighborhood": "JK",
+                    "phone": "9.9320-3458"
+                },
+                {
+                    "fantasy": "Farmácia Presidencial",
+                    "address": "Rua 31 de Março, 1624, Jd Presidencial, 1º Distrito",
+                    "neighborhood": "Jd Presidencial",
+                    "phone": "3423-8098"
+                }
+            ]
+        }
+    ]
+}
